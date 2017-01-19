@@ -1,2 +1,2 @@
 # ucsctools
-Copy of ucsctools
+Copy of ucsctools, just starting out
